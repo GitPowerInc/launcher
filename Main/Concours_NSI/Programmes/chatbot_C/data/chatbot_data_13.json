@@ -1,0 +1,21 @@
+{
+    "bonjour":[
+        "...",
+        "bye",
+        "slt",
+        "bonjour"
+    ],
+    "salut":[
+        "tu a bien mang\u00e9",
+        "euhh rebonjour ?",
+        "comment ca va ?"
+    ],
+    "\u00e7a va ?":[
+        "super et toi ?",
+        "tr\u00e8s bien merci et toi ?",
+        "OOUII",
+        "oui"
+    ],
+    "bye":[],
+    "slt":[]
+}

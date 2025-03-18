@@ -1,0 +1,39 @@
+{
+    "bonjour":[
+        "...",
+        "bye",
+        "salut"
+    ],
+    "bye":[
+        "bye"
+    ],
+    "euhh rebonjour ?":[
+        "salut",
+        "coucou"
+    ],
+    "...":[
+        "euhh rebonjour ?"
+    ],
+    "salut":[
+        "euhh rebonjour ?",
+        "\u00e7a va ?"
+    ],
+    "\u00e7a va ?":[
+        "super et toi ?",
+        "oui"
+    ],
+    "super et toi ?":[
+        "super",
+        "bien"
+    ],
+    "super":[
+        "cool"
+    ],
+    "cool":[
+        "super",
+        "cool"
+    ],
+    "oui":[],
+    "bien":[],
+    "coucou":[]
+}

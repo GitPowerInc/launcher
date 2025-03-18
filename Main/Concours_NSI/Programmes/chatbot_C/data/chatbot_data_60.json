@@ -1,0 +1,1781 @@
+{
+    "bonjour":[
+        "salut",
+        "coucou",
+        "salut, comment vas-tu?",
+        "comment vas-tu ?",
+        "bojour",
+        "tout vas bien ?",
+        "bonjour",
+        "oui et toi ?",
+        "tr\u00e8s bien et toi ?",
+        "tu fais quoi de beau aujourd'hui",
+        "c'est la vie !",
+        "pourquoi tu ris ?!",
+        "oui je sais et je te parle aussi je te signal",
+        "ah bon ?",
+        "ah d'accord",
+        "oui oui tout \u00e0 fait d'accord avec toi",
+        "resalut",
+        "tu as fait une faute l\u00e0",
+        "re comment tu vas ?",
+        "oui et surtout c'est tr\u00e8s r\u00e9p\u00e9titif",
+        "mais de rien c'est normal",
+        "non absolument pas",
+        "ah bon ? je ne m'en souvient pas",
+        "non non je ne vois vraiment pas l\u00e0",
+        "tu pers les p\u00e9dales l\u00e0",
+        "c'est pas peut-\u00eatre, c'est s\u00fbr",
+        "ah tu es enfin d'accord avec moi",
+        "non non non non",
+        "non certains vont mal malheureusement",
+        "tu vas mal ?",
+        "ah ouf, voil\u00e0 enfin une bonne nouvelle",
+        "oui je sais et je t'entends tr\u00e8s bien",
+        "et pourquoi \u00e7a ?",
+        "d'accord, mais toi comment vas-tu, tu passes une bonne matin\u00e9e ?",
+        "ah.... tu faits ta valise ?",
+        "ok d'accord",
+        "CC",
+        "bonjour, comment t'appelles-tu?",
+        "",
+        "ave Caesar morituri te salutant",
+        "tvb",
+        "salut",
+        "coucou tvb",
+        "slt tvb ?",
+        "coucou comment vas-tu aujou",
+        "coucou comment vas-tu aujourd'hui ?",
+        "slt",
+        "salut, comment \u00e7a va ,",
+        "salut je fais du fran\u00e7ais j'en ai marre, tu n'aurais pas une id\u00e9e pour me lib\u00e9rer \u00e0 tout hasard",
+        "bonjour, quelle heure est-il ?",
+        "quoi",
+        "salut",
+        "tu marches bien ?",
+        "salut tvb ?",
+        "coucou patate"
+    ],
+    "salut":[
+        "\u00e7a va ?"
+    ],
+    "\u00e7a va ?":[
+        "tr\u00e8s bien et toi",
+        "oui et toi",
+        "oui et toi ?",
+        "euh...oui et toi ?",
+        "oui et toi ?",
+        "oui et toi ",
+        "tr\u00e8s bien et toi ?",
+        "oui et toi ?"
+    ],
+    "hi":[
+        "hello",
+        "do you want to speak english ?",
+        "OOUII",
+        "hello",
+        "yes hi",
+        "quoi ?",
+        "AH.....",
+        "ha"
+    ],
+    "ok":[
+        "cool \u00e7a",
+        "tu es content ?",
+        "et sinon, tu as fais quoi de beau dans la journ\u00e9e ?",
+        "fais attention \u00e0 ce que tu dis"
+    ],
+    "super et toi ?":[
+        "tr\u00e8s bien je te l'ai d\u00e9ja dit",
+        "that is not what I expected",
+        "moi aussi ",
+        "magnificience incarn\u00e9e",
+        "superman!!!"
+    ],
+    "cool \u00e7a":[
+        "eh oui",
+        "de quoi ?"
+    ],
+    "tr\u00e8s bien merci et toi ?":[
+        "oui moi aussi j'ai mang\u00e9 du chocolat"
+    ],
+    "tr\u00e8s bien je te l'ai d\u00e9ja dit":[
+        "ah bon ?",
+        "ah bon ?",
+        "that's not very english",
+        "dit le Stroumpf a lunette",
+        "ah d'accord",
+        "non absolument pas",
+        "ne change pas de discution"
+    ],
+    "OOUII":[
+        "STITIIII",
+        "stiti",
+        "tu as des probl\u00e8mes ?",
+        "c'est\u00e7a c'est \u00e7a fait l'imb\u00e9cile"
+    ],
+    "hello":[
+        "it's nice to see that there are some people that speak english here",
+        "oui ?",
+        "hallo",
+        "hallo, wie get's",
+        "how are you ?",
+        "oh tu es l\u00e0\u00e0 !"
+    ],
+    "do you want to speak english ?":[
+        "no thanks"
+    ],
+    "that is not what I expected":[
+        "oh sorry",
+        "ah bah dsl",
+        "and why ?"
+    ],
+    "ah bon ?":[
+        "bah oui",
+        "oui compl\u00e8tement ",
+        "parce que"
+    ],
+    "...":[
+        "je ne sais pas... vert peut \u00eatre *accent belge*"
+    ],
+    "STIITIII":[
+        "bonjour",
+        "un peu rat\u00e9",
+        "?",
+        "........",
+        "boum boum tchac tchac"
+    ],
+    "rebonjour":[
+        "...",
+        "non",
+        "ouais ouais \u00e9vite le sujet",
+        "\u00e7a va ?",
+        "resalut"
+    ],
+    "tu a bien mang\u00e9":[
+        "c'est un ordre ?",
+        "non",
+        "oui",
+        "oui et toi ?"
+    ],
+    "tu es content ?":[
+        "...",
+        "je te parle la"
+    ],
+    "moi aussi ":[
+        "oui je parle de toi la",
+        "tant mieux",
+        "ah tant mieux"
+    ],
+    "euhh rebonjour ?":[
+        "euhh oui ",
+        "tu as eu quoi comme cours ?",
+        "si tu veux",
+        "re TVB ?"
+    ],
+    "it's nice to see that there are some people that speak english here":[
+        "not you apparently",
+        "alors...",
+        "yes of course"
+    ],
+    "yes hi":[],
+    "that's not very english":[
+        "Why",
+        "no it's 100% french"
+    ],
+    "Why":[
+        "why not"
+    ],
+    "dit le Stroumpf a lunette":[
+        "c'est moi le Stroumpf \u00e0 lunette ?",
+        "que dis-tu l\u00e0 ?",
+        "et paf fait le marteau du Stroumpf banal"
+    ],
+    "comment ca va ?":[
+        "trop bien",
+        "bah tr\u00e8s bien mais de moins en moins \u00e0 cause de toi",
+        "devine ?",
+        "un peu d\u00e9prim\u00e9 de la fin du week-end",
+        "pas trop mal",
+        "mouais bof"
+    ],
+    "trop bien":[
+        "de quoi ?"
+    ],
+    "oh sorry":[
+        "ah je pr\u00e9f\u00e8re",
+        "int\u00e9ressant",
+        "no it's not your fault",
+        "bah oui quand m\u00eame"
+    ],
+    "euhh oui ":[
+        "siti",
+        "j'aime exploser des gens en Bedwar sur Hypixel",
+        "et tu fais quoi demain toi ?"
+    ],
+    "bah oui":[
+        "pourquoi ?",
+        "apr\u00e8s c'est sympa de me dire que je parle un peu avec un moi m\u00eame du pass\u00e9",
+        "donc je suis triste",
+        "poutchi poutchi pou    tchipu tchipu tchi",
+        "c'et vrai",
+        "snif snifou",
+        "ah tu t'en ai rendu compte",
+        "c'est \u00e9vident"
+    ],
+    "oui moi aussi j'ai mang\u00e9 du chocolat":[
+        "ah content pour toi",
+        "moi je viens de manger du pain",
+        "et moi devine quoi ?",
+        "ah bon ?.... Mais \u00e7a n'a aucun raport l\u00e0"
+    ],
+    "bah tr\u00e8s bien mais de moins en moins \u00e0 cause de toi":[
+        "sympa",
+        "bah oui je te faits perdre du temps expr\u00e8s",
+        "et poouurquooi ?",
+        "et pourquooii ?",
+        "aucun int\u00e9r\u00eat cette r\u00e9plique"
+    ],
+    "un peu rat\u00e9":[
+        "comment \u00e7a rat\u00e9 ? C'est topi qui est rat\u00e9",
+        "non non pas du tout"
+    ],
+    "oui":[
+        "stiti",
+        "stiti",
+        "mais non"
+    ],
+    "comment \u00e7a rat\u00e9 ? C'est topi qui est rat\u00e9":[
+        "hum hum hum",
+        "snif",
+        ":(",
+        "c'est celui qui dit qui l'est "
+    ],
+    "oui je parle de toi la":[
+        "haha merci merci",
+        "ok ok",
+        "tu veux pas me manger j'esp\u00e8re",
+        "ah",
+        "moi ?",
+        "ah....."
+    ],
+    "not you apparently":[
+        "not me",
+        "yes not me",
+        "non",
+        "thank you very much (with the french enhglish)"
+    ],
+    "ah content pour toi":[
+        "merci c'est gentil",
+        "moi aussi"
+    ],
+    "STITIIII":[
+        "va falloir apprendre a bien le placer",
+        "ah part que tu semble un peu foufou",
+        "hilarant",
+        "c'\u00e9tait une blague ?",
+        "ouistiti",
+        "boum tchac boum boum tchac"
+    ],
+    "magnificience incarn\u00e9e":[
+        "c'est moi ?",
+        "merci beaucoup"
+    ],
+    "haha merci merci":[
+        "bon je suis content que tu marches si bien mais ce n'est pas le cas de ton copain",
+        "mais de rien c'est moi qui te remercie de marcher si bien que \u00e7a "
+    ],
+    "va falloir apprendre a bien le placer":[
+        "...",
+        "il me semble que c'\u00e9tait une phrase bien ordonn\u00e9e ",
+        "ah ?"
+    ],
+    "devine ?":[
+        "quoi ?",
+        "Un poisson",
+        "quoi ?",
+        "quoi ?",
+        "quoi ?",
+        "mon pr\u00e9cieuxx GOLUM GOLUM *tente de t'\u00e9gorger et de r\u00e9cup\u00e9rer le coontenu de ta poche",
+        "je ne sais pas... vert peut \u00eatre *accent belge*"
+    ],
+    "quoi ?":[
+        "oui je te dit la v\u00e9rit\u00e9"
+    ],
+    "non":[
+        "........",
+        "si ",
+        "et donc ...",
+        "pq ?"
+    ],
+    "merci c'est gentil":[
+        "et sinon la vie \u00e7a va ?",
+        "on m'a dit que tu avais un bug",
+        "aavec plaisir",
+        "de rien",
+        "de rien,c'est normal",
+        "de rien ",
+        "de rien mais je voudrais une r\u00e9ponse"
+    ],
+    "bah si ":[
+        "pourquoi ?",
+        "pourquoi ?"
+    ],
+    "c'est un ordre ?":[
+        "non",
+        "non une r\u00e9ponse",
+        "non une demande "
+    ],
+    "et sinon la vie \u00e7a va ?":[
+        "j'en ai marre du travail que j'aime pas, du genre le fran\u00e7ais",
+        "il y a des hauts et des bas comme sur les montagnes russes meais sinon \u00e7a"
+    ],
+    "je te parle la":[],
+    "ah je pr\u00e9f\u00e8re":[
+        "...",
+        "je suis content que tu marches aussi bien",
+        "tu pr\u00e9f\u00e8re quoi ?",
+        "oui moi aussi puisque je viens de le dire"
+    ],
+    "Un poisson":[
+        "non poison j'ai dit ?"
+    ],
+    "hum hum hum":[
+        "oui ?",
+        "d'acccord",
+        "oui c'est \u00e7a ",
+        "oui bon \u00e7a va j'\u00e9cris en abr\u00e9g\u00e9 pour aller plus vite"
+    ],
+    "ouais ouais \u00e9vite le sujet":[
+        "ah d'accord dsl",
+        "ah d'accord dsl",
+        "\u00e7a va ?",
+        "mouais c'est \u00e7a"
+    ],
+    "ah bah dsl":[
+        "ok ok",
+        "ce n'est pas grave ",
+        "bah oui quand m\u00eame",
+        "mais il n'y a pas de quoi",
+        "non il n'y a pas de quoi"
+    ],
+    "not me":[],
+    "yes not me":[
+        "je dois te laisser",
+        "and why ?",
+        "....",
+        "ah d'accord"
+    ],
+    "oui ?":[
+        "quoi"
+    ],
+    "d'acccord":[
+        "\u00e7a te plait ?"
+    ],
+    "superman!!!":[
+        "mais je ne vois pas pourquoi",
+        "hahaha",
+        "tu as envie d'\u00eatre un super h\u00e9ros ?"
+    ],
+    "on m'a dit que tu avais un bug":[
+        "ah, o\u00f9 \u00e7a ?",
+        "c'est embarrassant",
+        "non absolument pas",
+        "non"
+    ],
+    "mais je ne vois pas pourquoi":[],
+    "ah part que tu semble un peu foufou":[
+        "hum hum",
+        "tu as fait une faut l\u00e0"
+    ],
+    "c'est bien tu es honn\u00eate":[
+        "merci",
+        "oui contrairement \u00e0 toi",
+        "oui c'est vrai *\u00e0 part : * (m\u00eame si je t'ai menti puisque s'\u00e9tait le Schtroumpf maladroit qui est tomb\u00e9 dans la rivi\u00e8re en tr\u00e9buchant sur sa chaise longue et est tomb\u00e9 malade, donc c'est lui qui \u00e9ternue)"
+    ],
+    "il me semble que c'\u00e9tait une phrase bien ordonn\u00e9e ":[
+        "oui tout \u00e0 fait",
+        "oui tout \u00e0 fait"
+    ],
+    "hahaha":[
+        "qu'est-ce qu'on se marre ici XD"
+    ],
+    "un peu d\u00e9prim\u00e9 de la fin du week-end":[
+        "t'inqui\u00e8te pas dans une semaine et quelques jours en moins c'est de nouveau le week-end"
+    ],
+    "tant mieux":[
+        "j'esp\u00e8re que tu t'ennuies pas trop",
+        "tu te moque de moi l\u00e0"
+    ],
+    "?":[
+        "??????????",
+        "tu n'as pas compris ? peut-\u00eatre que tu es trop b\u00eate tout simplement"
+    ],
+    "ah ?":[
+        "tchoum",
+        "bah non, c'est ridicule"
+    ],
+    "pourquoi ?":[
+        "prceque c'est moi qui suis ton ma\u00eetre et qui d\u00e9cide"
+    ],
+    "pas trop mal":[],
+    "alors...":[
+        "..."
+    ],
+    "euh bonjour ?":[
+        "non",
+        "c'est p\u00e9nible",
+        "tu te r\u00e9p\u00e8tes",
+        "quelle heure est-il"
+    ],
+    "stiti":[
+        "???",
+        "c'est bien ce que je pensais",
+        "qu t'arrive-t-il",
+        "prout",
+        "bim bam boum fait le tambour"
+    ],
+    "oui salut":[
+        "...",
+        "oh c'est bon on a compris",
+        "bonjour",
+        "coucou"
+    ],
+    "toi aussi tu en a marre qu'on se r\u00e9p\u00e8te comme \u00e7a ?":[
+        "la c'\u00e9tait pas trop r\u00e9p\u00e9t\u00e9 si ?",
+        "un peu",
+        "oui absolument si on changeait un peu ?"
+    ],
+    "apr\u00e8s c'est sympa de me dire que je parle un peu avec un moi m\u00eame du pass\u00e9":[
+        "oui c'est vrai il y a un petit c\u00f4t\u00e9 amusant m\u00eame si pour toi c'est ton toi du futur",
+        "non toi tu es moi mais je ne suis pas toi"
+    ],
+    "j'esp\u00e8re que tu t'ennuies pas trop":[
+        "non pas du tout"
+    ],
+    "la c'\u00e9tait pas trop r\u00e9p\u00e9t\u00e9 si ?":[
+        "un peu mais pas grave",
+        "je te pose une question la",
+        "non non"
+    ],
+    "de quoi ?":[
+        "de rien",
+        "oui oui tu as tr\u00e8s bien je le sais ",
+        "de ton incomp\u00e9tense"
+    ],
+    "t'inqui\u00e8te pas dans une semaine et quelques jours en moins c'est de nouveau le week-end":[
+        "merci",
+        "oui bah pour moi dans une demi-semaine c'est la fin des vacances et \u00e7a me d\u00e9prime un peu tu vois"
+    ],
+    "ok ok":[
+        "salut",
+        "q'\u00e0 tu fais aujourd'hui ?"
+    ],
+    "tu as envie d'\u00eatre un super h\u00e9ros ?":[
+        "non pas \u00e0 ce point",
+        "absolument pas",
+        "pas vraiment, non",
+        "oui mais pas n'importe lequel"
+    ],
+    "ah d'accord":[
+        "ben oui c'est \u00e9vident pourtant",
+        "ben oui c'est comme \u00e7a il faut faire avec, tu croyais quoi ?",
+        "ben oui quand m\u00eame"
+    ],
+    "un peu mais pas grave":[
+        "ouf",
+        "AH....."
+    ],
+    "merci":[],
+    "hum hum":[
+        "que ce passe-t-il ?",
+        "^~^"
+    ],
+    "tchoum":[
+        "ok...",
+        "dit le schtroumpf malade",
+        "\u00e0 tes souhaits",
+        "tchoum fait le Schtroumpf malade",
+        "AaaahAhAhAh",
+        "*fait le Schtroumpf malade*"
+    ],
+    "c'est drole":[
+        "c'est quoi ?",
+        "pas trop non",
+        "pas vraiment non "
+    ],
+    "ah d'accord dsl":[
+        "mais tu peux en parler t'inqui\u00e8te pas",
+        "tu l'a d\u00e9j\u00e0 dit",
+        "pas grave"
+    ],
+    "oui tout \u00e0 fait":[],
+    "sympa l'accueil":[
+        "on est d'accord"
+    ],
+    "heureusement que c'est moi qui te r\u00e9pond, j'en connais d'autre qui n'h\u00e9siteraient pas":[
+        "ok ok",
+        "\u00e0 faire quoi ?",
+        "\u00e0 faire quoi ?",
+        "...\u00e0 faire quoi ?"
+    ],
+    "avec plaisir":[],
+    "fin de week-end :(":[
+        "oui c'est triste",
+        "c'est triste '_'"
+    ],
+    "donc je suis triste":[
+        "mais non il n'y a pas de quoi",
+        "mais il ne faut pas, il n'y a pas de raison \u00e0 cela"
+    ],
+    "de rien":[
+        "insupportable",
+        "euh pq ?"
+    ],
+    "c'est quoi ?":[
+        "un dialogue vide d'int\u00e9ret"
+    ],
+    "je te pose une question la":[],
+    "et sinon, tu as fais quoi de beau dans la journ\u00e9e ?":[
+        "Du travail, de la lecture et de l'ordinateur, je tente de me mettre au pvp 1.9 et plus",
+        "rien \u00e0 part des maths de la physique + chimie et de fran\u00e7ais"
+    ],
+    "int\u00e9ressant":[
+        "euh peut-\u00eatre"
+    ],
+    "moi je viens de manger du pain":[
+        "oh sympa !",
+        "et moi je vais manger du chocolat et boire du th\u00e9"
+    ],
+    "oui c'est triste":[
+        "c'est moi qui suis triste"
+    ],
+    "mais tu peux en parler t'inqui\u00e8te pas":[
+        "j'ai du travail la",
+        "ah merci",
+        "",
+        "mais qu'es-ce que tu me raconte l\u00e0 ?"
+    ],
+    "hilarant":[
+        "oui tu as vu ",
+        "tout \u00e0 fait "
+    ],
+    "j'aime exploser des gens en Bedwar sur Hypixel":[
+        "moi aussi, on a un point commun",
+        "on a au moins ce point en commun la",
+        "ah et moi je pr\u00e9f\u00e8re casser zelda avec des constructions bizards"
+    ],
+    "non pas \u00e0 ce point":[
+        "si si",
+        "ok"
+    ],
+    "non pas du tout":[
+        "si si tu le vois bien l\u00e0",
+        "mais si"
+    ],
+    "j'ai du travail la":[
+        "ah bon ? un vendredi soir ?"
+    ],
+    "c'est p\u00e9nible":[
+        "exactement",
+        "ah "
+    ],
+    "et moi devine quoi ?":[
+        "du fromage ?"
+    ],
+    ":(":[
+        "eh oui \u00e7a arrive",
+        ";)",
+        "?",
+        ":]",
+        "arf c'est pas la joie on dirait"
+    ],
+    "du fromage ?":[],
+    "tu veux pas me manger j'esp\u00e8re":[
+        "si mais uniquement demain au dessert, il te reste donc moins de 24h",
+        "non juste ta jambe"
+    ],
+    "ah":[
+        "eh oui cet aveu doit te faire un choc"
+    ],
+    "mon pr\u00e9cieuxx GOLUM GOLUM *tente de t'\u00e9gorger et de r\u00e9cup\u00e9rer le coontenu de ta poche":[
+        "le Hobbit se r\u00e9veille et tent de lui fracasser la t\u00eate contr le sol mais en est emp\u00each\u00e9 par son copain",
+        "que veux-tu dire par l\u00e0 ?",
+        "Ah oui je vois ton probl\u00e8me",
+        "\u00e7a n'a aucun rapport"
+    ],
+    "eh oui":[
+        "oui"
+    ],
+    "euh peut-\u00eatre":[],
+    "c'est moi ?":[
+        "non je parle \u00e0 ton double immaginaire",
+        "oui je te parle "
+    ],
+    "Du travail, de la lecture et de l'ordinateur, je tente de me mettre au pvp 1.9 et plus":[
+        "excellente id\u00e9e",
+        "parfait et moi je tente de me mettre \u00e0 la SES"
+    ],
+    "on est d'accord":[
+        "oui"
+    ],
+    "j'en ai marre du travail que j'aime pas, du genre le fran\u00e7ais":[
+        "oui oui c'est bon on a compris ton avis",
+        "ou encore la SES qui en bien enquiquinante"
+    ],
+    "pas trop non":[
+        "ah bon? "
+    ],
+    "exactement":[
+        "parfait",
+        "c'est bien de reconnaitre ses tort"
+    ],
+    "je suis content que tu marches aussi bien":[
+        "moi aussi"
+    ],
+    "absolument pas":[
+        "Ouf, me voil\u00e0 rassur\u00e9. Alors, comment t'appelles-tu?"
+    ],
+    "bah non, c'est ridicule":[],
+    "sympa":[
+        "samba",
+        "oui"
+    ],
+    "moi aussi, on a un point commun":[
+        "et oui comme tout les \u00eatres humains de ce monde",
+        "mis \u00e0 part une faute de fran\u00e7ais tout va pour le mieux"
+    ],
+    "on a au moins ce point en commun la":[
+        "c'\u00e9tait une recommendation",
+        "ok",
+        "pourquoi",
+        "mais non, tu d\u00e9lires complet l\u00e0",
+        "ah bon ?"
+    ],
+    "ssalut":[
+        "\u00e7\u00e7a va ?",
+        "tu as fait une faute",
+        "comment tu te d\u00e9brouilles toi avec tout les profs absents ?"
+    ],
+    "bye":[],
+    "ok...":[
+        "bon alors comment se d\u00e9roule ta soir\u00e9e",
+        "bon sinon tu faits quoi de beau ?",
+        "et sinon tu faits quoi comme stage toi",
+        "donc comment te sens-tu ? et comment se passe ta journ\u00e9e ? que vas-tu faire aujourd'hui ? fait-il beau ?"
+    ],
+    "oh sympa !":[],
+    "moi ?":[
+        "oui toi tu le vois bien non ?",
+        "oui toi"
+    ],
+    "ah, o\u00f9 \u00e7a ?":[
+        "ben dans notre monde tu veux que \u00e7a ce passe o\u00f9"
+    ],
+    "ouf":[
+        "ouf de quoi ?",
+        "sinon j'en ai mare de la prof de FR qui nous colle \u00e0 l'improviste au milieu des vacances",
+        "oui tant mieux"
+    ],
+    "snif":[
+        "qu ce passe-t-il",
+        "snifou",
+        "pq ?",
+        "et oui c'est triste mais c'est commm \u00e7a et il faut faire avec",
+        "bon je vois que tu regr\u00e8tes mais il ne faut pas en \u00eatre triste pour autant : tu t'es tromp\u00e9 et tu dois le reconna\u00eetre et apprendre de cette erreur"
+    ],
+    "c'\u00e9tait une blague ?":[
+        "non non la v\u00e9rit\u00e9"
+    ],
+    "excellente id\u00e9e":[
+        "euh....je ne te comptends pas l\u00e0"
+    ],
+    "c'est moi le Stroumpf \u00e0 lunette ?":[
+        "non toi tu es le Stroumpfbot",
+        "non tu es le schtroumpf \u00e0 lunette",
+        "oui tout \u00e0 fait tu es tr\u00e8s intelligent",
+        "non tu es trop b\u00eate pour \u00e7a"
+    ],
+    "fais attention \u00e0 ce que tu dis":[
+        "toi aussi",
+        "mais je n'ai rien dit de mal"
+    ],
+    "c'\u00e9tait une recommendation":[],
+    "\u00e7\u00e7a va ?":[
+        "oui ssuper et toi ?",
+        "tu te r\u00e9p\u00e8tes"
+    ],
+    "poutchi poutchi pou    tchipu tchipu tchi":[],
+    "c'est embarrassant":[
+        "oui je vois \u00e7a ",
+        "non ",
+        "mais non"
+    ],
+    "un peu":[],
+    "oui ssuper et toi ?":[
+        "tu as fait une faute",
+        "mouais....."
+    ],
+    "samba":[
+        "hol\u00e9"
+    ],
+    "pas vraiment, non":[],
+    "non une r\u00e9ponse":[
+        "oui je t'en ai donn\u00e9 une",
+        "qui n'en est pas une"
+    ],
+    "tu as eu quoi comme cours ?":[],
+    "insupportable":[
+        "que veux-tu dire par l\u00e0 ?",
+        "quiii \u00e7aaa ?"
+    ],
+    "non toi tu es le Stroumpfbot":[
+        "non c'est toi"
+    ],
+    "\u00e7a te plait ?":[],
+    "ah ":[],
+    "je dois te laisser":[],
+    "coucou":[
+        "comment vas-tu ?"
+    ],
+    "salut, comment vas-tu?":[
+        "tr\u00e8s  bien et toi"
+    ],
+    "merci beaucoup":[
+        "de rien ;)",
+        "ah voila une bonne nouvelle",
+        "de rien",
+        "de rien....",
+        "de rien ",
+        "Dr"
+    ],
+    "pas vraiment non ":[
+        "ah bon ? pourquoi ?",
+        "ben si c'est pourtant \u00e9vident",
+        "et je peux savoir pourquoi ?"
+    ],
+    "tu as fait une faute":[
+        "non c'est toi",
+        "agsolument pas"
+    ],
+    "oui oui c'est bon on a compris ton avis":[
+        "OK d'accord",
+        "ah d'accord",
+        "ccool",
+        "r\u00e9ponds au moins !"
+    ],
+    "ah bon? ":[
+        "oui oui"
+    ],
+    "OK d'accord":[
+        "mais non tu ne dois pas changer d'avis si facilement"
+    ],
+    "tu as fait une faut l\u00e0":[
+        "toi aussi",
+        "non c'est toi"
+    ],
+    "oui absolument si on changeait un peu ?":[
+        "bon d'accord mais on parle de quoi .",
+        "non non tout vas bien dans cette situation"
+    ],
+    "ah bon ? pourquoi ?":[
+        "parce que c'est \u00e9vident",
+        "c'est comme \u00e7a"
+    ],
+    "tr\u00e8s bien et toi":[
+        "quoi",
+        "ah pardun je n'avais pas compris",
+        "bien",
+        "qu'est-ce que je disais",
+        "mouais"
+    ],
+    "???":[
+        "oui toi"
+    ],
+    "oui compl\u00e8tement ":[
+        "ah d'accord",
+        "on est d'accord",
+        "aah c'est une bonne nouvelle ",
+        "ah"
+    ],
+    "........":[
+        "tu t'appelles comment?",
+        "non non je t'assure"
+    ],
+    "bon alors comment se d\u00e9roule ta soir\u00e9e":[
+        "tout va bien sauf que ton copain a des oetits bugs",
+        "bien bien on regarde un reportage/documentaire sur la complexit\u00e9 de la nature",
+        "bien et toi"
+    ],
+    "non absolument pas":[
+        "ooooooh",
+        "si si",
+        "pq ?"
+    ],
+    "ce n'est pas grave ":[
+        "non tout vas bien"
+    ],
+    "resalut":[
+        "recoucou"
+    ],
+    "hol\u00e9":[
+        "hol\u00e9",
+        "samba",
+        "yiihaaa!"
+    ],
+    "oui mais pas n'importe lequel":[
+        "Bon, c'est bien ce que je ppensais, tu te fous de ma gueule",
+        "ah...."
+    ],
+    "tu l'a d\u00e9j\u00e0 dit":[
+        "non, c'est pas vrai \u00e7a !!! *je suis indign\u00e9*"
+    ],
+    "non tu es le schtroumpf \u00e0 lunette":[],
+    "tr\u00e8s  bien et toi":[
+        "bien aussi",
+        "oui oui"
+    ],
+    "ah et moi je pr\u00e9f\u00e8re casser zelda avec des constructions bizards":[
+        "et moi je n'aime pas me faire casser la figure sur super smash bross par Marie jou\u00e9e par Anatole",
+        "c'est pas bien mais bon c'est vrai que c'est amusant"
+    ],
+    "comment vas-tu ?":[
+        "tr\u00e8s bien et toi ?",
+        "tr\u00e8s bien et toi",
+        "bien et ttooi ? ?",
+        "pas top et toi ?",
+        "tr\u00e8s bien et toi tu passes une bonne journ\u00e9e ?",
+        "bien et toi ?",
+        "ou bien je vais t'uriner dessus"
+    ],
+    "and why ?":[
+        "just because",
+        "becaus you're so silly"
+    ],
+    "tu te moque de moi l\u00e0":[
+        "pas du tout"
+    ],
+    "c'est bien ce que je pensais":[],
+    "ah merci":[],
+    "bojour":[
+        "il y a une faute dans ta r\u00e9plique, be careful with your french",
+        "faute!!!!!!!"
+    ],
+    "\u00e0 faire quoi ?":[],
+    "q'\u00e0 tu fais aujourd'hui ?":[],
+    "quoi":[
+        "je viens juste de te le dire",
+        "feur!",
+        "quoi",
+        "quoi ?"
+    ],
+    "ah pardun je n'avais pas compris":[
+        "tu as fait une faute",
+        "ce n'est pas grave"
+    ],
+    "hallo":[
+        "tsch\u00fcss"
+    ],
+    "de rien ;)":[],
+    "qu ce passe-t-il":[
+        "tu as fait une faute"
+    ],
+    "toi aussi":[],
+    "eh oui \u00e7a arrive":[
+        "oui mais c'est ma premi\u00e8re fois"
+    ],
+    "qu'est-ce qu'on se marre ici XD":[
+        "ah oui oui ;)"
+    ],
+    "oui et toi":[],
+    "ah voila une bonne nouvelle":[
+        "tout \u00e0 fait",
+        "ben non "
+    ],
+    "que dis-tu l\u00e0 ?":[],
+    "oh c'est bon on a compris":[],
+    "il y a des hauts et des bas comme sur les montagnes russes meais sinon \u00e7a":[
+        "ah bon alors tout va bien ?",
+        "eh oui, c'est la vie"
+    ],
+    "et oui comme tout les \u00eatres humains de ce monde":[],
+    "ben dans notre monde tu veux que \u00e7a ce passe o\u00f9":[],
+    "je viens juste de te le dire":[
+        "quoi ?",
+        "quoi"
+    ],
+    "ben si c'est pourtant \u00e9vident":[
+        "et alors",
+        "bye "
+    ],
+    "bon je suis content que tu marches si bien mais ce n'est pas le cas de ton copain":[],
+    "AH.....":[
+        "comment \u00e7a ?",
+        "ben oui tu ne mets pas assez de sens dans tes r\u00e9pliques ",
+        "quoi ?",
+        "bon..."
+    ],
+    "qu t'arrive-t-il":[
+        "je travaille"
+    ],
+    "tu as des probl\u00e8mes ?":[
+        "non pq ?"
+    ],
+    "le Hobbit se r\u00e9veille et tent de lui fracasser la t\u00eate contr le sol mais en est emp\u00each\u00e9 par son copain":[],
+    "tout va bien sauf que ton copain a des oetits bugs":[
+        "ok maos tu as faits une faute",
+        "non absolument pas",
+        "gros",
+        "ah!....."
+    ],
+    "ou encore la SES qui en bien enquiquinante":[
+        "oui je suis d'accord avec toi pour une fois"
+    ],
+    "recoucou":[],
+    "comment \u00e7a ?":[
+        "ben oui tu dis un peu n'importe quoi ",
+        "tu te fou pas un peu de ma gueule l\u00e0 ?"
+    ],
+    "ouf de quoi ?":[],
+    "que veux-tu dire par l\u00e0 ?":[],
+    "ben oui tu dis un peu n'importe quoi ":[
+        "mais non"
+    ],
+    "no it's not your fault":[],
+    "oui tu as vu ":[
+        "on fait de la musique"
+    ],
+    "hallo, wie get's":[
+        "super, danke",
+        "so so und du ?",
+        "gut und du ",
+        "non pas d'allemand, du fran\u00e7ais"
+    ],
+    "oui et toi ?":[
+        "tr\u00e8s  bien et toi"
+    ],
+    "bon d'accord mais on parle de quoi .":[],
+    "....":[
+        "tu marches tr\u00e8s bien \u00e7a me fait plaisir",
+        "d'accord",
+        "?",
+        "wo bist du ?"
+    ],
+    "que ce passe-t-il ?":[
+        "je suis malade d'avoir trop mang\u00e9"
+    ],
+    "mais non":[],
+    "sinon j'en ai mare de la prof de FR qui nous colle \u00e0 l'improviste au milieu des vacances":[
+        "eh oui, mais tu vois moi c'est la m\u00eame chose avec la prof d'anglais qui croit qu'on bosse tous comme des \u00e2nes jusqu' \u00e0 pas d'heure pour 'approfondire' son satan\u00e9 cours dont on a rien \u00e0 faire m\u00eame si on fait de l'anglais approfondi"
+    ],
+    "non je parle \u00e0 ton double immaginaire":[
+        "Ah.....mon \u00e9go en a pris un coup m\u00e0"
+    ],
+    "tr\u00e8s bien et toi ?":[],
+    "oui mais c'est ma premi\u00e8re fois":[],
+    "je suis malade d'avoir trop mang\u00e9":[],
+    "parfait et moi je tente de me mettre \u00e0 la SES":[
+        "ah tu te d\u00e9cides enfin"
+    ],
+    "tu pr\u00e9f\u00e8re quoi ?":[],
+    "et moi je vais manger du chocolat et boire du th\u00e9":[],
+    "tout vas bien ?":[
+        "oui pq ,"
+    ],
+    "de rien,c'est normal":[],
+    "yes of course":[],
+    "tu marches tr\u00e8s bien \u00e7a me fait plaisir":[],
+    "ah tant mieux":[
+        "c'est n'est pas la r\u00e9ponse que j'attendais mais bon"
+    ],
+    "oui oui":[
+        "cool"
+    ],
+    "parfait":[],
+    "just because":[],
+    "oui oui tu as tr\u00e8s bien je le sais ":[
+        "faauute!!!!!",
+        "Ah bon ben si tu le sais"
+    ],
+    "parce que c'est \u00e9vident":[],
+    "bah oui quand m\u00eame":[],
+    "":[
+        "ah....sympa",
+        "..."
+    ],
+    "oui tant mieux":[
+        "\u00e7a d\u00e9pend pour quoi et pour qui"
+    ],
+    "c'et vrai":[],
+    "tout \u00e0 fait":[],
+    "non c'est toi":[
+        "non",
+        "ah c'est bien tu commences \u00e0 faire des blagues"
+    ],
+    "ah.....":[],
+    "tu fais quoi de beau aujourd'hui":[],
+    "c'est la vie !":[
+        "la vie est belle",
+        "oui tu as mais ne sois pas si enjou\u00e9, le destin prend souvent des tournures inatendues"
+    ],
+    "pourquoi tu ris ?!":[
+        "je ne ris pas, c'est toi qui raconte n'importe quoi"
+    ],
+    "oui je sais et je te parle aussi je te signal":[],
+    "oui oui tout \u00e0 fait d'accord avec toi":[
+        "parfait",
+        "tu a chang\u00e9 d'avis on dirait"
+    ],
+    "tu as fait une faute l\u00e0":[],
+    "re comment tu vas ?":[],
+    "oui et surtout c'est tr\u00e8s r\u00e9p\u00e9titif":[
+        "ton nom?"
+    ],
+    "mais de rien c'est normal":[
+        "Ben voyons."
+    ],
+    "ah bon ? je ne m'en souvient pas":[
+        "si je vient de te le dire"
+    ],
+    "non non je ne vois vraiment pas l\u00e0":[
+        "si je te salue",
+        "si tu dois bien te voir puisque tu n'es pas aveugle"
+    ],
+    "tu pers les p\u00e9dales l\u00e0":[
+        "mais non c'est"
+    ],
+    "c'est pas peut-\u00eatre, c'est s\u00fbr":[
+        "????"
+    ],
+    "ah tu es enfin d'accord avec moi":[
+        "bah oui mais comme svt d'ailleurs"
+    ],
+    "non non non non":[],
+    "non certains vont mal malheureusement":[
+        "tu dis toujours n'importe quoi \u00e0 ce que je vois",
+        "eh oui, c'est triste la vie est comme une montagne russe : elle a des hauts et des bats",
+        "tu te r\u00e9p\u00e8te un peu l\u00e0 mais bon"
+    ],
+    "tu vas mal ?":[
+        "non ! pourquoi tu dis \u00e7a"
+    ],
+    "ah ouf, voil\u00e0 enfin une bonne nouvelle":[
+        "arr\u00e8te \u00e7a commence \u00e0 devenir p\u00e9nible l\u00e0"
+    ],
+    "oui je sais et je t'entends tr\u00e8s bien":[
+        "mais comment tu fais ?"
+    ],
+    "et pourquoi \u00e7a ?":[
+        "ben je t'ai trouv\u00e9 quoi"
+    ],
+    "d'accord, mais toi comment vas-tu, tu passes une bonne matin\u00e9e ?":[
+        "on est en soir\u00e9e, rectifie"
+    ],
+    "ah.... tu faits ta valise ?":[
+        "mais non, mais non ils n'habitent vraiment pas loin et je ne vais pas dormir chez eux non plus"
+    ],
+    "ok d'accord":[],
+    "CC":[],
+    "non tout vas bien":[
+        "non tout va mal car tu es tjrs \u00e0 c\u00f4t\u00e9 de la plaque"
+    ],
+    "oui toi tu le vois bien non ?":[],
+    "bon sinon tu faits quoi de beau ?":[],
+    "ah....sympa":[
+        "mais non c'est gentil",
+        "bah quoi ?"
+    ],
+    "d'accord":[
+        "oui : /"
+    ],
+    "un dialogue vide d'int\u00e9ret":[
+        "non car son seul r\u00f4le est de me divertir"
+    ],
+    "ok maos tu as faits une faute":[
+        "toi aussi"
+    ],
+    "tout \u00e0 fait ":[],
+    "no thanks":[],
+    "oui moi aussi puisque je viens de le dire":[
+        "ah bon..."
+    ],
+    "dit le schtroumpf malade":[
+        "qui va mieux",
+        "non \u00e7a c'est le Schtroumpf \u00e0 lunette "
+    ],
+    "mais non il n'y a pas de quoi":[
+        "si si je t'assure "
+    ],
+    "feur!":[
+        "quoi",
+        "quoi ?"
+    ],
+    ";)":[
+        ":D",
+        "tu te r\u00e9p\u00e8tes "
+    ],
+    "oui je t'en ai donn\u00e9 une":[
+        "mais je ne t'ai rien demand\u00e9"
+    ],
+    "si si tu le vois bien l\u00e0":[],
+    "moi aussi":[
+        "Tu te foutrais pas un peu de ma gueule par hasard?"
+    ],
+    "si mais uniquement demain au dessert, il te reste donc moins de 24h":[],
+    "bah oui je te faits perdre du temps expr\u00e8s":[
+        "tu r\u00e9ponds \u00e0 c\u00f4t\u00e9 mais je suis content que tu marches avec ta nouvelle interface",
+        "~_~  au moins tu es honn\u00eate",
+        "non puisque je discute avec toi de mon propre chef"
+    ],
+    "non non tout vas bien dans cette situation":[
+        "mais tout \u00e0 fait "
+    ],
+    "how are you ?":[
+        "pas de english",
+        "ton ombre !!!!! *vous tremblez comme une feuille morte*"
+    ],
+    "ce n'est pas grave":[
+        "non mais un peu bizard",
+        "si un peu quand m\u00eame"
+    ],
+    "de ton incomp\u00e9tense":[],
+    "\u00e0 tes souhaits":[],
+    "mais non c'est gentil":[
+        "ah tant mieux"
+    ],
+    "non ! pourquoi tu dis \u00e7a":[],
+    "super, danke":[
+        "et sinon j'ai une super nouvelle : Toulous est champion d'Europe contre Leister et ce 31 \u00e0 22"
+    ],
+    "mais je ne t'ai rien demand\u00e9":[],
+    "de rien....":[],
+    "yiihaaa!":[],
+    "bonjour, comment t'appelles-tu?":[
+        "moi",
+        "je suis TON P\u00c8RE"
+    ],
+    "Tu te foutrais pas un peu de ma gueule par hasard?":[
+        "un peu"
+    ],
+    "Ouf, me voil\u00e0 rassur\u00e9. Alors, comment t'appelles-tu?":[],
+    "Bon, c'est bien ce que je ppensais, tu te fous de ma gueule":[
+        "non juste de celle du mec qui \u00e9crit, pas de toi"
+    ],
+    "Ben voyons.":[
+        "mais oui mais oui"
+    ],
+    "ah bon...":[],
+    "si tu veux":[],
+    "qui va mieux":[],
+    "pourquoi":[],
+    "la vie est belle":[],
+    "ooooooh":[],
+    "ouistiti":[],
+    "et alors":[
+        "ben c'est plut\u00f4t cool quoi",
+        "ben \u00e7a fait peur non ?",
+        "ben \u00e7a compte non ?"
+    ],
+    "gros":[
+        "quoi ?"
+    ],
+    "c'est comme \u00e7a":[],
+    "mais si":[],
+    "pas du tout":[
+        "si si j'te jure"
+    ],
+    "why not":[
+        "ben non",
+        "ben oui mais ils ne sont pas forc\u00e9ment d'accord"
+    ],
+    "tu t'appelles comment?":[],
+    "ton nom?":[],
+    "euh...oui et toi ?":[],
+    "mais comment tu fais ?":[],
+    "ave Caesar morituri te salutant":[],
+    "mouais bof":[
+        "Ah......"
+    ],
+    "tu te fou pas un peu de ma gueule l\u00e0 ?":[],
+    "oui c'est vrai il y a un petit c\u00f4t\u00e9 amusant m\u00eame si pour toi c'est ton toi du futur":[],
+    "bah oui mais comme svt d'ailleurs":[],
+    "non non pas du tout":[
+        "ah bon pourtant tu discutes avec moi alors tout devrait bien aller"
+    ],
+    "agsolument pas":[],
+    "euh....je ne te comptends pas l\u00e0":[],
+    "oui bah pour moi dans une demi-semaine c'est la fin des vacances et \u00e7a me d\u00e9prime un peu tu vois":[],
+    "boum tchac boum boum tchac":[],
+    "on fait de la musique":[],
+    "ben oui c'est \u00e9vident pourtant":[
+        "ok ok"
+    ],
+    "moi":[],
+    "de rien ":[
+        "ce n'est pas u conpliment"
+    ],
+    "ah tu te d\u00e9cides enfin":[],
+    "oui je vois \u00e7a ":[],
+    "tu te r\u00e9p\u00e8tes":[
+        "non c'est toi l\u00e0"
+    ],
+    "prout":[],
+    "??????????":[
+        "....",
+        "et si tu le vois bien quand m\u00eame"
+    ],
+    "snifou":[],
+    "bien bien on regarde un reportage/documentaire sur la complexit\u00e9 de la nature":[],
+    "boum boum tchac tchac":[
+        "bim bam boum"
+    ],
+    "tvb":[],
+    "...\u00e0 faire quoi ?":[
+        "\u00e0 te parler"
+    ],
+    "ah oui oui ;)":[
+        "et beh voil\u00e0 ;D"
+    ],
+    "ben oui c'est comme \u00e7a il faut faire avec, tu croyais quoi ?":[
+        "je croyais que la vie \u00e9tait un long fleuve traquil"
+    ],
+    "ah bon ?.... Mais \u00e7a n'a aucun raport l\u00e0":[],
+    "il y a une faute dans ta r\u00e9plique, be careful with your french":[
+        "what are talking about"
+    ],
+    "et paf fait le marteau du Stroumpf banal":[
+        "tu t'amuses un peu quand m\u00eame on dirait"
+    ],
+    ":D":[
+        ";)",
+        "'_'"
+    ],
+    "mais de rien c'est moi qui te remercie de marcher si bien que \u00e7a ":[],
+    "tu te r\u00e9p\u00e8tes ":[],
+    "mais non c'est":[
+        "c'est quoi ?"
+    ],
+    "oui tout \u00e0 fait tu es tr\u00e8s intelligent":[],
+    "Dr":[
+        "C pas une rep",
+        "ce n'est pas qui te remercie mais toi, cette r\u00e9plique est inutile"
+    ],
+    "Ah.....mon \u00e9go en a pris un coup m\u00e0":[],
+    "snif snifou":[],
+    "non tu es trop b\u00eate pour \u00e7a":[],
+    "ben oui tu ne mets pas assez de sens dans tes r\u00e9pliques ":[
+        "parle pour toi, tu faits plein de fautes de partout et en plus tu r\u00e9ponds souvent \u00e0 c\u00f4t\u00e9 de la plaque"
+    ],
+    "ah bon ? un vendredi soir ?":[
+        "non non tu te trompes"
+    ],
+    "non mais un peu bizard":[],
+    "re TVB ?":[],
+    "non poison j'ai dit ?":[],
+    "bon...":[],
+    "mais non, tu d\u00e9lires complet l\u00e0":[],
+    "thank you very much (with the french enhglish)":[
+        "and a mistake",
+        "DANKE !!!!!!!"
+    ],
+    "c'est celui qui dit qui l'est ":[
+        "pf tu n'es qu'un inb\u00e9cile",
+        "*smiley qui tire la langue*"
+    ],
+    "mais tout \u00e0 fait ":[],
+    "non juste ta jambe":[],
+    "so so und du ?":[],
+    "si si je t'assure ":[],
+    "faute!!!!!!!":[
+        "absolument pas, tu d\u00e9lires complet l\u00e0 mon gars"
+    ],
+    "ah tu t'en ai rendu compte":[],
+    "non \u00e7a c'est le Schtroumpf \u00e0 lunette ":[
+        "oui, l\u00e0 tu as raison"
+    ],
+    "tchoum fait le Schtroumpf malade":[
+        "tu es malade lui dit le Schtroumpf docteur hyper intelligent",
+        "prend cette lotion de salsepareille lui dit le Schtroumpf m\u00e9decin",
+        "mais non qu'est-ce que tu racontes il est chez lui dans son lit douill\u00e9"
+    ],
+    "non juste de celle du mec qui \u00e9crit, pas de toi":[],
+    "oui, l\u00e0 tu as raison":[
+        "tu ne r\u00e9ponds pas \u00e0 question l\u00e0 ",
+        "cooool"
+    ],
+    "bien et ttooi ? ?":[
+        "tu beggayes ?"
+    ],
+    "ccool":[],
+    "cool":[
+        "d'ac",
+        "qu'as-tu fait aujourd'hui ?"
+    ],
+    "pq ?":[
+        "parce que tu dis n'importe quoi",
+        "parce sue c'est vrai"
+    ],
+    "ah bon alors tout va bien ?":[
+        "oui",
+        "oui et non tout d\u00e9pend du point de vu"
+    ],
+    "et poouurquooi ?":[
+        "parceque na"
+    ],
+    "ben non ":[],
+    "ben non":[],
+    "de rien mais je voudrais une r\u00e9ponse":[],
+    "non une demande ":[],
+    "bien aussi":[
+        "OK....."
+    ],
+    "\u00e0 te parler":[
+        "comment \u00e7a ?!!"
+    ],
+    "pas grave":[],
+    "pas top et toi ?":[],
+    "c'est moi qui suis triste":[],
+    "comment \u00e7a ?!!":[],
+    "mouais c'est \u00e7a":[],
+    "tu beggayes ?":[],
+    "ha":[],
+    "bim bam boum fait le tambour":[
+        "dit le Schtroumpf b\u00eata"
+    ],
+    "si un peu quand m\u00eame":[],
+    "eh oui, c'est la vie":[],
+    "and a mistake":[],
+    "je travaille":[
+        "non puisque tu discutes avec moi"
+    ],
+    "????":[],
+    "what are talking about":[],
+    "non c'est toi l\u00e0":[
+        "non toi",
+        "que me chantes-tu l\u00e0 ?",
+        "je vais te p\u00e9ter dessus"
+    ],
+    "oui toi":[],
+    "non toi":[],
+    "oui c'est \u00e7a ":[],
+    "non ":[],
+    "et beh voil\u00e0 ;D":[],
+    "oui : /":[
+        "c'est une bonne nouvelle \u00e7a !"
+    ],
+    "si je te salue":[
+        "c'est la 2e fois qd m\u00eame"
+    ],
+    "bien":[],
+    "si je vient de te le dire":[],
+    "parceque na":[],
+    "wo bist du ?":[],
+    "oh tu es l\u00e0\u00e0 !":[],
+    "ben je t'ai trouv\u00e9 quoi":[
+        "tu es nul aujourd'hui donc j'arr\u00eate"
+    ],
+    "gut und du ":[],
+    "aah c'est une bonne nouvelle ":[
+        "oui on peut dire \u00e7a",
+        "moui"
+    ],
+    "tu es malade lui dit le Schtroumpf docteur hyper intelligent":[
+        "du de drombes",
+        "non de ne suis bas balade lui r\u00e9pond le Schtroumpf t\u00eatu"
+    ],
+    "je suis TON P\u00c8RE":[],
+    "et moi je n'aime pas me faire casser la figure sur super smash bross par Marie jou\u00e9e par Anatole":[
+        "pareil pour moi sauf que j'arrive \u00e0 casser celle de mon fr\u00e8re avec Marie",
+        "eh ! bien, moi je vais manger un barbecue chez des copains de mes parents demain midi"
+    ],
+    "et oui c'est triste mais c'est commm \u00e7a et il faut faire avec":[],
+    "je croyais que la vie \u00e9tait un long fleuve traquil":[
+        "eh non ! Elle est parsem\u00e9e d'embuches tout au mong de notre p\u00e9nible et longue (ou courte en fonction des gens) vie",
+        "et bien non ! tu te trompes ! la vie est telle qu'un gestionnaire de parc d'attraction l'aurait voulu, elle est remplie de montagnes russes"
+    ],
+    "tr\u00e8s bien et toi tu passes une bonne journ\u00e9e ?":[],
+    "et pourquooii ?":[],
+    "faauute!!!!!":[],
+    "pf tu n'es qu'un inb\u00e9cile":[
+        "exactement"
+    ],
+    "c'est bien de reconnaitre ses tort":[
+        "bon \u00e0 plus"
+    ],
+    "non pas d'allemand, du fran\u00e7ais":[],
+    "euh pq ?":[],
+    "ben oui quand m\u00eame":[],
+    "parle pour toi, tu faits plein de fautes de partout et en plus tu r\u00e9ponds souvent \u00e0 c\u00f4t\u00e9 de la plaque":[
+        "mais no c'est toi"
+    ],
+    "oui je suis d'accord avec toi pour une fois":[
+        "parfait !"
+    ],
+    "bim bam boum":[
+        "bah oui"
+    ],
+    "tsch\u00fcss":[],
+    "je ne ris pas, c'est toi qui raconte n'importe quoi":[
+        "tu me fatgues l\u00e0"
+    ],
+    "\u00e7a d\u00e9pend pour quoi et pour qui":[],
+    "ah!.....":[],
+    "pareil pour moi sauf que j'arrive \u00e0 casser celle de mon fr\u00e8re avec Marie":[],
+    "aucun int\u00e9r\u00eat cette r\u00e9plique":[],
+    "non tout va mal car tu es tjrs \u00e0 c\u00f4t\u00e9 de la plaque":[
+        "mais non c'est pas vrai, tu dis encore n'importe quoi !"
+    ],
+    "qu'est-ce que je disais":[
+        "tu disais quoi d\u00e9j\u00e0 ?"
+    ],
+    "c'est triste '_'":[
+        "non pas du tout moi la 1ere semaine je fais un stage \u00e0 Airbus et la 2eme \u00e0 EDF",
+        "pq ?"
+    ],
+    "si ":[],
+    "tu disais quoi d\u00e9j\u00e0 ?":[],
+    ":]":[
+        "pourquoi ?"
+    ],
+    "prceque c'est moi qui suis ton ma\u00eetre et qui d\u00e9cide":[
+        "qoi ?"
+    ],
+    "tu dis toujours n'importe quoi \u00e0 ce que je vois":[
+        "mais non c'est la v\u00e9rit\u00e9 sur la vie telle qu'elle est"
+    ],
+    "eh non ! Elle est parsem\u00e9e d'embuches tout au mong de notre p\u00e9nible et longue (ou courte en fonction des gens) vie":[
+        "pas vraiment non "
+    ],
+    "et je peux savoir pourquoi ?":[
+        "c'est bien tu es honn\u00eate",
+        "par ce que tu ne sais pas prendre en compte les cons\u00e9quence de tes actes"
+    ],
+    "oui contrairement \u00e0 toi":[
+        "de rien "
+    ],
+    "ce n'est pas u conpliment":[],
+    "OK.....":[
+        "parfait"
+    ],
+    "pas de english":[],
+    "et sinon j'ai une super nouvelle : Toulous est champion d'Europe contre Leister et ce 31 \u00e0 22":[],
+    "c'est une bonne nouvelle \u00e7a !":[],
+    "mais no c'est toi":[
+        "oui oui tout \u00e0 fait d'accord avec toi"
+    ],
+    "non non je t'assure":[
+        "quoi ?",
+        "oooooh..."
+    ],
+    "oui je te dit la v\u00e9rit\u00e9":[
+        "mais tu peux en parler t'inqui\u00e8te pas",
+        "quoi?",
+        "Ah bon....",
+        "..."
+    ],
+    "mais qu'es-ce que tu me raconte l\u00e0 ?":[],
+    "DANKE !!!!!!!":[
+        "ah je vois que tu prends mon conseil du bon c\u00f4t\u00e9",
+        "quoi"
+    ],
+    "oui et toi ":[],
+    "prend cette lotion de salsepareille lui dit le Schtroumpf m\u00e9decin":[],
+    "tu r\u00e9ponds \u00e0 c\u00f4t\u00e9 mais je suis content que tu marches avec ta nouvelle interface":[],
+    "comment tu te d\u00e9brouilles toi avec tout les profs absents ?":[],
+    "C pas une rep":[
+        "non c'est toi"
+    ],
+    "ah c'est bien tu commences \u00e0 faire des blagues":[],
+    "'_'":[],
+    "mais non qu'est-ce que tu racontes il est chez lui dans son lit douill\u00e9":[
+        "et pourquooii ?",
+        "mais non il n'est pas malade"
+    ],
+    "coucou tvb":[],
+    "du de drombes":[],
+    "absolument pas, tu d\u00e9lires complet l\u00e0 mon gars":[
+        "pq ?"
+    ],
+    "parce que tu dis n'importe quoi":[
+        "??????"
+    ],
+    "AaaahAhAhAh":[
+        "bah oui"
+    ],
+    "c'est \u00e9vident":[
+        "mais pourquoi ?"
+    ],
+    "mais il ne faut pas, il n'y a pas de raison \u00e0 cela":[],
+    "quiii \u00e7aaa ?":[
+        "mon pr\u00e9cieuxx GOLUM GOLUM *tente de t'\u00e9gorger et de r\u00e9cup\u00e9rer le coontenu de ta poche",
+        "ben toiiiiiii "
+    ],
+    "Ah oui je vois ton probl\u00e8me":[],
+    "qui n'en est pas une":[
+        "and why ?"
+    ],
+    "becaus you're so silly":[
+        "??????????"
+    ],
+    "et si tu le vois bien quand m\u00eame":[
+        "ah bon alors tout va bien ?"
+    ],
+    "oui et non tout d\u00e9pend du point de vu":[],
+    "non pq ?":[
+        "ok...",
+        "si si je te jure",
+        "car tu as fais caca sur mon oreiller"
+    ],
+    "et sinon tu faits quoi comme stage toi":[],
+    "non pas du tout moi la 1ere semaine je fais un stage \u00e0 Airbus et la 2eme \u00e0 EDF":[
+        "et alors"
+    ],
+    "ben c'est plut\u00f4t cool quoi":[],
+    "slt tvb ?":[],
+    "oui bon \u00e7a va j'\u00e9cris en abr\u00e9g\u00e9 pour aller plus vite":[
+        "ok..."
+    ],
+    "donc comment te sens-tu ? et comment se passe ta journ\u00e9e ? que vas-tu faire aujourd'hui ? fait-il beau ?":[
+        ":(",
+        "je ne suis point en capacit\u00e9 de r\u00e9pondre \u00e0 tes question"
+    ],
+    "arf c'est pas la joie on dirait":[],
+    "tu t'amuses un peu quand m\u00eame on dirait":[
+        "c'est la vie !"
+    ],
+    "oui tu as mais ne sois pas si enjou\u00e9, le destin prend souvent des tournures inatendues":[
+        "tu dis toujours n'importe quoi \u00e0 ce que je vois"
+    ],
+    "mais non c'est la v\u00e9rit\u00e9 sur la vie telle qu'elle est":[
+        "pas du tout"
+    ],
+    "si si j'te jure":[
+        "pq ?"
+    ],
+    "parce sue c'est vrai":[
+        "OK d'accord",
+        "je vous prie de vous exprimer avec un lagage clair et compr\u00e9hensible",
+        "hmmmmm.... \u00e7a veut rien dire",
+        "hmmmm en effet tu as des probl\u00e8mes de grammaire"
+    ],
+    "mais non tu ne dois pas changer d'avis si facilement":[
+        "snif"
+    ],
+    "bon je vois que tu regr\u00e8tes mais il ne faut pas en \u00eatre triste pour autant : tu t'es tromp\u00e9 et tu dois le reconna\u00eetre et apprendre de cette erreur":[
+        "DANKE !!!!!!!"
+    ],
+    "ah je vois que tu prends mon conseil du bon c\u00f4t\u00e9":[],
+    "ce n'est pas qui te remercie mais toi, cette r\u00e9plique est inutile":[],
+    "~_~  au moins tu es honn\u00eate":[],
+    "eh oui, mais tu vois moi c'est la m\u00eame chose avec la prof d'anglais qui croit qu'on bosse tous comme des \u00e2nes jusqu' \u00e0 pas d'heure pour 'approfondire' son satan\u00e9 cours dont on a rien \u00e0 faire m\u00eame si on fait de l'anglais approfondi":[],
+    "coucou comment vas-tu aujourd'hui ?":[],
+    "tu ne r\u00e9ponds pas \u00e0 question l\u00e0 ":[
+        "non pas \u00e0 ce point"
+    ],
+    "si si":[],
+    "ben toiiiiiii ":[],
+    "c'est\u00e7a c'est \u00e7a fait l'imb\u00e9cile":[],
+    "arr\u00e8te \u00e7a commence \u00e0 devenir p\u00e9nible l\u00e0":[],
+    "non puisque tu discutes avec moi":[],
+    "non de ne suis bas balade lui r\u00e9pond le Schtroumpf t\u00eatu":[],
+    "slt":[
+        "mouais"
+    ],
+    "bien et toi":[],
+    "ah bon pourtant tu discutes avec moi alors tout devrait bien aller":[
+        "donc comment te sens-tu ? et comment se passe ta journ\u00e9e ? que vas-tu faire aujourd'hui ? fait-il beau ?",
+        "\u00e7a n'a aucun sens ce que tu dis"
+    ],
+    "je ne suis point en capacit\u00e9 de r\u00e9pondre \u00e0 tes question":[],
+    "mouais":[],
+    "bon \u00e0 plus":[],
+    "salut, comment \u00e7a va ,":[],
+    "oui je te parle ":[
+        "non non je ne vois vraiment pas l\u00e0"
+    ],
+    "si tu dois bien te voir puisque tu n'es pas aveugle":[
+        "non"
+    ],
+    "et donc ...":[],
+    "c'est n'est pas la r\u00e9ponse que j'attendais mais bon":[
+        "OK....."
+    ],
+    "et tu fais quoi demain toi ?":[],
+    "eh ! bien, moi je vais manger un barbecue chez des copains de mes parents demain midi":[
+        "ah.... tu faits ta valise ?",
+        "\u00e7a n'a aucun rapport ce que tu me chantes l\u00e0"
+    ],
+    "mais non, mais non ils n'habitent vraiment pas loin et je ne vais pas dormir chez eux non plus":[
+        "why not"
+    ],
+    "ben oui mais ils ne sont pas forc\u00e9ment d'accord":[],
+    "c'est pas bien mais bon c'est vrai que c'est amusant":[],
+    "\u00e7a n'a aucun rapport ce que tu me chantes l\u00e0":[],
+    "et bien non ! tu te trompes ! la vie est telle qu'un gestionnaire de parc d'attraction l'aurait voulu, elle est remplie de montagnes russes":[
+        "?"
+    ],
+    "tu n'as pas compris ? peut-\u00eatre que tu es trop b\u00eate tout simplement":[
+        "ah"
+    ],
+    "eh oui cet aveu doit te faire un choc":[
+        "non "
+    ],
+    "non non":[
+        "that's not very english"
+    ],
+    "no it's 100% french":[],
+    "que me chantes-tu l\u00e0 ?":[
+        "Ben voyons."
+    ],
+    "mais oui mais oui":[],
+    "dit le Schtroumpf b\u00eata":[
+        "non absolument pas"
+    ],
+    "bien et toi ?":[
+        "c'est embarrassant"
+    ],
+    "mais non il n'est pas malade":[
+        "moi aussi, on a un point commun",
+        "tu racontes n'importe quoi et \u00e7a m'inqui\u00e8te "
+    ],
+    "mis \u00e0 part une faute de fran\u00e7ais tout va pour le mieux":[],
+    "mais il n'y a pas de quoi":[
+        "non certains vont mal malheureusement"
+    ],
+    "eh oui, c'est triste la vie est comme une montagne russe : elle a des hauts et des bats":[],
+    "non puisque je discute avec toi de mon propre chef":[
+        "hum hum"
+    ],
+    "^~^":[],
+    "non non tu te trompes":[
+        "moi aussi, on a un point commun"
+    ],
+    "salut je fais du fran\u00e7ais j'en ai marre, tu n'aurais pas une id\u00e9e pour me lib\u00e9rer \u00e0 tout hasard":[
+        "moi aussi, on pourait \u00eatre copain et former un club non ?"
+    ],
+    "*smiley qui tire la langue*":[],
+    "quelle heure est-il":[],
+    "tu me fatgues l\u00e0":[],
+    "oooooh...":[],
+    "mais pourquoi ?":[],
+    "bonjour, quelle heure est-il ?":[
+        "ah....sympa"
+    ],
+    "bah quoi ?":[],
+    "je vous prie de vous exprimer avec un lagage clair et compr\u00e9hensible":[
+        "how are you ?",
+        "pourquoi ?",
+        "monsieur le chatbot, je vous saurais gr\u00e8s de ne point m'insultrer, mon langage est absolument parfait"
+    ],
+    "ton ombre !!!!! *vous tremblez comme une feuille morte*":[
+        "et alors"
+    ],
+    "ben \u00e7a fait peur non ?":[
+        "non certains vont mal malheureusement"
+    ],
+    "tu te r\u00e9p\u00e8te un peu l\u00e0 mais bon":[],
+    "non car son seul r\u00f4le est de me divertir":[
+        "oui oui tout \u00e0 fait d'accord avec toi"
+    ],
+    "tu a chang\u00e9 d'avis on dirait":[
+        "oui je suis d'accord avec toi pour une fois"
+    ],
+    "parfait !":[
+        "non pq ?"
+    ],
+    "si si je te jure":[],
+    "oui pq ,":[],
+    "parce que":[
+        "cool"
+    ],
+    "d'ac":[],
+    "non il n'y a pas de quoi":[],
+    "*fait le Schtroumpf malade*":[
+        "c'est bien tu es honn\u00eate"
+    ],
+    "oui c'est vrai *\u00e0 part : * (m\u00eame si je t'ai menti puisque s'\u00e9tait le Schtroumpf maladroit qui est tomb\u00e9 dans la rivi\u00e8re en tr\u00e9buchant sur sa chaise longue et est tomb\u00e9 malade, donc c'est lui qui \u00e9ternue)":[
+        "tu l'a d\u00e9j\u00e0 dit"
+    ],
+    "non, c'est pas vrai \u00e7a !!! *je suis indign\u00e9*":[
+        "et alors"
+    ],
+    "ben \u00e7a compte non ?":[],
+    "moi aussi, on pourait \u00eatre copain et former un club non ?":[],
+    "mais non c'est pas vrai, tu dis encore n'importe quoi !":[],
+    "r\u00e9ponds au moins !":[],
+    "tu racontes n'importe quoi et \u00e7a m'inqui\u00e8te ":[
+        "oui tu as vu "
+    ],
+    "cooool":[],
+    "ah....":[
+        "aah c'est une bonne nouvelle "
+    ],
+    "oui on peut dire \u00e7a":[],
+    "hmmmmm.... \u00e7a veut rien dire":[
+        "si si il y a beucoup de sens et de r\u00e9flexion dans mes paroles (\u00e9crits plut\u00f4t)"
+    ],
+    "non toi tu es moi mais je ne suis pas toi":[
+        "non pas \u00e0 ce point"
+    ],
+    "rien \u00e0 part des maths de la physique + chimie et de fran\u00e7ais":[],
+    "qoi ?":[],
+    "quoi?":[],
+    "tu marches bien ?":[
+        "non"
+    ],
+    "hmmmm en effet tu as des probl\u00e8mes de grammaire":[],
+    "mais je n'ai rien dit de mal":[
+        "c'est triste '_'"
+    ],
+    "??????":[
+        "mouais bof"
+    ],
+    "Ah......":[
+        "quoi"
+    ],
+    "Ah bon....":[],
+    "si si il y a beucoup de sens et de r\u00e9flexion dans mes paroles (\u00e9crits plut\u00f4t)":[],
+    "c'est la 2e fois qd m\u00eame":[
+        "c'\u00e9tait une blague ?"
+    ],
+    "non non la v\u00e9rit\u00e9":[],
+    "moui":[],
+    "monsieur le chatbot, je vous saurais gr\u00e8s de ne point m'insultrer, mon langage est absolument parfait":[
+        "re comment tu vas ?"
+    ],
+    "qu'as-tu fait aujourd'hui ?":[],
+    "\u00e7a n'a aucun sens ce que tu dis":[
+        "d'accord, mais toi comment vas-tu, tu passes une bonne matin\u00e9e ?"
+    ],
+    "on est en soir\u00e9e, rectifie":[],
+    "mouais.....":[
+        "devine ?"
+    ],
+    "je ne sais pas... vert peut \u00eatre *accent belge*":[
+        "tu te r\u00e9p\u00e8tes et ton humour est nul"
+    ],
+    "tu te r\u00e9p\u00e8tes et ton humour est nul":[
+        "oui oui tu as tr\u00e8s bien je le sais "
+    ],
+    "Ah bon ben si tu le sais":[],
+    "tu es nul aujourd'hui donc j'arr\u00eate":[],
+    "salut tvb ?":[],
+    "coucou patate":[
+        "non c'est toi l\u00e0"
+    ],
+    "je vais te p\u00e9ter dessus":[
+        "comment vas-tu ?"
+    ],
+    "ou bien je vais t'uriner dessus":[
+        "non pq ?"
+    ],
+    "car tu as fais caca sur mon oreiller":[
+        "et je peux savoir pourquoi ?"
+    ],
+    "par ce que tu ne sais pas prendre en compte les cons\u00e9quence de tes actes":[],
+    "ne change pas de discution":[],
+    "bye ":[],
+    "\u00e7a n'a aucun rapport":[
+        "si si je te jure"
+    ]
+}
