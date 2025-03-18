@@ -22,23 +22,23 @@
 
 ##### **Windows Powershell/Command Prompt**
 
-**cd C:\\path\\to\\script**
+**`cd C:\\path\\to\\script`**
 
-**python launcher.py**
+**`python launcher.py`**
 
 #### **macOS**
 
 ##### **Terminal**
 
-**cd C:\\path\\to\\script**
+**`cd C:\\path\\to\\script`**
 
-**python launcher.py**
+**`python launcher.py`**
 
 ### **Linux**
 
 #### **Vérifier que Gnome Terminal soit installé:**
 
-### **gnome-terminal \--version**
+**`gnome-terminal \--version`**
 
 ### 
 
@@ -46,24 +46,29 @@
 
 ##### **Debian-based distributions (Ubuntu, etc.) :**
 
-**sudo apt update**  
-**sudo apt install gnome-terminal**
+**`sudo apt update`**  
+**`sudo apt install gnome-terminal`**
 
 ##### **Fedora :** 
 
-**sudo dnf install gnome-terminal**
+**`sudo dnf install gnome-terminal`**
 
 ##### **Arch-based distributions :** 
 
-**sudo pacman \-S gnome-terminal**
+**`sudo pacman \-S gnome-terminal`**
 
 ##### **Other Linux distributions :** 
 
 Pour d'autres distributions, vous pouvez consulter directement le [GitLab de GNOME Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal/-/wikis/home). Sinon, vous pouvez aussi essayer :
 
-**sudo yum install gnome-terminal**
+**`sudo yum install gnome-terminal`**
 
-**Ou consultez la documentation de votre distribution pour des instructions spécifiques.**
+#### **Terminal:**
+
+**`cd C:\\path\\to\\script`**
+
+**`python launcher.py`**
+
 
 ## **📄 Licence**
 
