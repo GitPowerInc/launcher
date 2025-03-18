@@ -30,7 +30,7 @@
 
 ##### **Terminal**
 
-**`cd C:\\path\\to\\script`**
+**`cd /path/to/script`**
 
 **`python launcher.py`**
 
@@ -65,7 +65,7 @@ Pour d'autres distributions, vous pouvez consulter directement le [GitLab de GNO
 
 #### **Terminal:**
 
-**`cd C:\\path\\to\\script`**
+**`cd /path/to/script`**
 
 **`python launcher.py`**
 
