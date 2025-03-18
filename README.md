@@ -23,7 +23,6 @@
 ##### **Windows Powershell/Command Prompt**
 
 **`cd C:\\path\\to\\script`**
-
 **`python launcher.py`**
 
 #### **macOS**
@@ -31,7 +30,6 @@
 ##### **Terminal**
 
 **`cd /path/to/script`**
-
 **`python launcher.py`**
 
 ### **Linux**
@@ -66,7 +64,6 @@ Pour d'autres distributions, vous pouvez consulter directement le [GitLab de GNO
 #### **Terminal:**
 
 **`cd /path/to/script`**
-
 **`python launcher.py`**
 
 
