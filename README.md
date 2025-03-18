@@ -4,7 +4,7 @@
 
 **👋 Bonjour et bienvenue à notre projet, un launcher python compatible avec Windows, Linux et même MacOS\! Celui-ci est présenté sous forme de galerie, dans laquelle vous pouvez y retrouver une variété d’outils, de jeux et même d’illusions d’optiques que nous avons pu réaliser dans le cadre de cette année scolaire\! Ce launcher à été conçu par Maixent Araud, Adrien Lachaize et Victor Gomez Canet.** 
 
-[**Download**](https://github.com/GitPowerInc/launcher/archive/refs/heads/main.zip) **• [Documentation](https://github.com) • [Requirements](https://github.com/GitPowerInc/launcher/blob/main/requirements.txt)**
+[**Download**](https://github.com/GitPowerInc/launcher/archive/refs/heads/main.zip) **• [Documentation](https://github.com/GitPowerInc/launcher/tree/main/Main/Concours_NSI/doc-spec) • [Requirements](https://github.com/GitPowerInc/launcher/blob/main/requirements.txt)**
 
 ## **🖥️ Compatibilité**
 
