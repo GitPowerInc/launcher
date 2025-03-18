@@ -16,7 +16,7 @@
 
 ### **Supported Operating Systems**
 
-**PyLauncher est disponible pour Windows, Linux, et macOS.** 
+**PyLauncher est disponible pour Windows, Linux, et macOS. Pour installer Python, [c'est par ici](https://www.python.org/).** 
 
 #### **Windows**
 
