@@ -1,4 +1,4 @@
-### <img src="Main/Concours_NSI/Images/logo" alt="Python Logo" width="50" height="50"> **`PyLauncher`**
+### <img src="Main/Concours_NSI/Images/logo" alt="Python Logo" width="150" height="150"> **`PyLauncher`**
 
 **👋 Bonjour et bienvenue à notre projet, un launcher python compatible avec Windows, Linux et même MacOS\! Celui-ci est présenté sous forme de galerie, dans laquelle vous pouvez y retrouver une variété d’outils, de jeux et même d’illusions d’optiques que nous avons pu réaliser dans le cadre de cette année scolaire\! Ce launcher à été conçu par Maixent Araud, Adrien Lachaize et Victor Gomez Canet.** 
 
