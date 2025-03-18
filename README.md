@@ -1,4 +1,4 @@
-<img src="Main/Concours_NSI/Images/image.png" alt="Description" style="width: 200px; height: 200px; border-radius: 50%;">
+<img src="Main/Concours_NSI/Images/logo" alt="Description" border-radius: 50%;">
 
 ### **`PyLauncher`**
 
