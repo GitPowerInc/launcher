@@ -22,7 +22,7 @@
 
 ##### **Windows Powershell/Command Prompt**
 
-**`cd C:\\path\\to\\script`**  
+**`cd C:\path\to\script`**  
 **`python launcher.py`**
 
 #### **macOS**
