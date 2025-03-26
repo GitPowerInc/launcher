@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+_#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 Created on Sun Feb  9 17:46:00 2025
@@ -93,7 +93,7 @@ def launch(pgrm):
         pgrm = "tictactoe.py"
 
     else :
-        emplacement += "/defaut_C"
+        emplacement = os.path.join(emplacement, "/defaut_C")
         pgrm = "Jeu_de_la_vie_V_1_0.py"
 
     print("Emplacement :", emplacement)
@@ -130,22 +130,31 @@ def jouer() :
     Vous devez défendre notre planète et empêcher les Perséens de nous envahir.
     Bon courage et Bonne chasse !!"""
 
-
     dico_pgrm[galerie[1][0]] = "chatbot --console"
 
     dico_pgrm[galerie[2][0]] = "chatbot --interface"
 
+    dico_pgrm[galerie[3][0]] = "bonhome_de_neige"
 
-    dico_pgrm[galerie[3][0]] = "bases"
-
-
-    dico_pgrm[galerie[4][0]] = "bonhome_de_neige"
-
+    dico_pgrm[galerie[4][0]] = "un_2e_bonhome_de_neige"
 
     dico_pgrm[galerie[0][1]] = "etude_trinomes"
+    
+    dico_pgrm[galerie[1][1]] = "bases"
 
+    dico_pgrm[galerie[2][1]] = "questions_maths"
 
-    print(dico_pgrm)
+    dico_pgrm[galerie[3][1]] = "IP"
+
+    dico_pgrm[galerie[4][1]] = "cartes_en_rectangle"
+    
+    dico_pgrm[galerie[0][2]] = "illusion"
+    
+    dico_pgrm[galerie[1][2]] = "pierre_feuille_ciseaux"
+    
+    dico_pgrm[galerie[2][2]] = "tictactoe"
+        
+
 
 
     coord_perso = (0,0)
