@@ -1,9 +1,9 @@
-_#!/usr/bin/env python3
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 Created on Sun Feb  9 17:46:00 2025
 
-@author: Adrien, V
+@author: Adrien, Victor, Maixent
 """
 import os
 from subprocess import run
@@ -182,7 +182,6 @@ def jouer() :
             y -= 1
         elif inp == "m" and y < 2:
             y += 1
-        x=0
         coord_perso = (x, y)
 
         if inp == "e":
