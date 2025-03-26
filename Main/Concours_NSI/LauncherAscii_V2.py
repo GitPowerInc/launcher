@@ -64,6 +64,34 @@ def launch(pgrm):
         emplacement = os.path.join(emplacement, "fonctions_C")
         pgrm = "etude_trinome_2nd_degre.py"
 
+    elif pgrm == "questions_maths" :
+        emplacement = os.path.join(emplacement, "questions_C")
+        pgrm = "ARAUD_Maixent_questionnaire.py"
+
+    elif pgrm == "IP" :
+        emplacement = os.path.join(emplacement, "Outils")
+        pgrm = "check_IP.py"
+
+    elif pgrm == "un_2e_bonhome_de_neige" :
+        emplacement = os.path.join(emplacement, "turtle_C")
+        pgrm = "Gomez_Araud_bonhommedeneige.py"
+
+    elif pgrm == "cartes_en_rectangle" :
+        emplacement = os.path.join(emplacement, "cartes_C")
+        pgrm = "JeudeCarteRectangle.py"
+
+    elif pgrm == "illusion" :
+        emplacement = os.path.join(emplacement, "turtle_C")
+        pgrm = "Pyllusion_Nlignes.py"
+
+    elif pgrm == "pierre_feuille_ciseaux" :
+        emplacement = os.path.join(emplacement, "mini_jeux_C")
+        pgrm = "pierrefeuilleciseaux.py"
+
+    elif pgrm == "tictactoe" :
+        emplacement = os.path.join(emplacement, "mini_jeux_C")
+        pgrm = "tictactoe.py"
+
     else :
         emplacement += "/defaut_C"
         pgrm = "Jeu_de_la_vie_V_1_0.py"
