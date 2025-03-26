@@ -166,7 +166,7 @@ def jouer() :
                 if choix == "l":
                     try :
                         launch(dico_pgrm[coord_perso])
-                    except Exception() :
+                    except Exception :
                         launch("defaut")
                         print("programme par défaut exécuter")
                     finally :
