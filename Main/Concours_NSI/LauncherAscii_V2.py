@@ -176,15 +176,16 @@ def jouer() :
     print(" - déplacement :\n\t monter un etage (m)\n\t descendre un etage(d)\n\t entrer dans l'etage (e)")
     print(" quitter et fermer le laucher (q)")
 
-    while inp != "q":
-        inp = input("votre choix : ")
-        if inp == "d" and y > 0:
+    while choix != "q":
+        choix = input("votre choix : ")
+        if choix == "d" and y > 0:
             y -= 1
-        elif inp == "m" and y < 2:
+        elif choix == "m" and y < 2:
             y += 1
+        x=0
         coord_perso = (x, y)
 
-        if inp == "e":
+        if choix == "e":
             print("\n\n - déplacement :\n\t gauche(g)\n\t droite(d)\n\t sortir de l'etage(h)")
 
             if galerie[x][y] in dico_pgrm :
