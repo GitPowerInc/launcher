@@ -42,22 +42,22 @@
 
 ### 
 
-#### **Installer GNOME Terminal :**
+#### **Installer GNOME Terminal:**
 
-##### **Debian-based distributions (Ubuntu, etc.) :**
+##### **Debian-based distributions (Ubuntu, etc.):**
 
 **`sudo apt update`**  
 **`sudo apt install gnome-terminal`**
 
-##### **Fedora :** 
+##### **Fedora:** 
 
 **`sudo dnf install gnome-terminal`**
 
-##### **Arch-based distributions :** 
+##### **Arch-based distributions:** 
 
 **`sudo pacman \-S gnome-terminal`**
 
-##### **Other Linux distributions :** 
+##### **Other Linux distributions:** 
 
 Pour d'autres distributions, vous pouvez consulter directement le [GitLab de GNOME Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal/-/wikis/home). Sinon, vous pouvez aussi essayer :
 
